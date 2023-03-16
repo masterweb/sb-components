@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/masterweb/sb-components/compare/v1.0.0...v1.1.0) (2023-03-16)
+
+
+### Features
+
+* Typescript no dependency ([9217546](https://github.com/masterweb/sb-components/commit/9217546044dbd45d4718eaf5ed024aca7d524f61))
+
 # 1.0.0 (2023-03-16)
 
 
