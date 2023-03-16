@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/masterweb/sb-components/compare/v1.1.0...v1.1.1) (2023-03-16)
+
+
+### Bug Fixes
+
+* Typescript no required ([2bc60a3](https://github.com/masterweb/sb-components/commit/2bc60a35eb8b21df1d80d4c7635cad2861de4d39))
+
 # [1.1.0](https://github.com/masterweb/sb-components/compare/v1.0.0...v1.1.0) (2023-03-16)
 
 
